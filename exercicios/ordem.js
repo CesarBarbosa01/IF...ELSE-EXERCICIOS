@@ -3,7 +3,7 @@
 (considere que não serão lidos valores iguais) e escrevê-los
 em ordem crescente.
 
-OBS: sei que tem jeitos melhores pra fazer isso, mas resolvi fazer por mim mesmo (assim como os outros exercicios) por isso pode está desnecessariamente grande em termos lógicos.
+OBS: sei que tem jeitos melhores pra fazer isso, mas resolvi fazer da maneira que sabia fazer (assim como os outros exercicios) por isso pode está desnecessariamente grande em termos lógicos.
 */
 
 let n1 = 2; // n1 = 3 // n1 = 2 // n1 = 2 // n1 = 3 // m1 = 1
